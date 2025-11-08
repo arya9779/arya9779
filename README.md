@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile!  <br>I'm an aspiring **DevOps & Cloud Engineer** passionate about automation, scalability, and bridging the gap between development and operations.<br><br>- 🔭 Currently working on "Project Astra"<br>- 🌱 Constantly learning and exploring **Docker, Kubernetes, AWS, CI/CD, and MLOps**.  <br>- 🤝 Open to collaborations on DevOps, Cloud, and ML infrastructure projects. <br>💬 Ask me about **Linux, Git, Docker, AWS, or automating anything**.  <br>🌐 Check out my website/portfolio:  <br>📫 How to reach me: <br>>💡 “Automate everything that can be automated — that’s how you scale impact.”</p>
+<p align="left">Welcome to my GitHub profile!  <br>I'm an aspiring DevOps & Cloud Engineer passionate about automation, scalability, and bridging the gap between development and operations.<br><br>- 🔭 Currently working on "Project Astra"<br>- 🌱 Constantly learning and exploring Docker, Kubernetes, AWS, CI/CD, and MLOps.  <br>- 🤝 Open to collaborations on DevOps, Cloud, and ML infrastructure projects. <br>💬 Ask me about Linux, Git, Docker, AWS, or automating anything.  <br>🌐 Check out my website/portfolio:  <br>📫 How to reach me: <br>>💡 “Automate everything that can be automated — that’s how you scale impact.”</p>
 
 ###
 
