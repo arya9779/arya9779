@@ -3,20 +3,20 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=229&section=header&reversal=false&text=Hey%20there%F0%9F%91%8B,This%20is%20Arya%20Patel%20%20&fontSize=45&fontColor=#00000&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%"  src="https://capsule-render.vercel.app/api?type=waving&height=229&section=header&reversal=false&text=Hey%20there%F0%9F%91%8B,This%20is%20Arya%20Patel%20%20&fontSize=45&fontColor=#00000&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<p align="left">Welcome to my GitHub profile!  <br>I'm an aspiring DevOps & Cloud Engineer passionate about automation, scalability, and bridging the gap between development and operations.<br><br>- 🔭 Currently working on "Project Astra"<br>- 🌱 Constantly learning and exploring Docker, Kubernetes, AWS, CI/CD, and MLOps.  <br>- 🤝 Open to collaborations on DevOps, Cloud, and ML infrastructure projects. <br>💬 Ask me about Linux, Git, Docker, AWS, or automating anything.  <br>🌐 Check out my website/portfolio:  <br>📫 How to reach me: <br>>💡 “Automate everything that can be automated — that’s how you scale impact.”</p>
+<p align="left">Welcome to my GitHub profile! <br>I'm an aspiring DevOps & Cloud Engineer passionate about automation, scalability, and bridging the gap between development and operations.<br><div align="center">"Learning, They say you learn from failures, I say that’s where it truly begins 😄”<br></div><br>🔭 Currently working on "Project Astra"<br>🌱 Constantly learning and exploring AIOps, Docker, Kubernetes, AWS, CI/CD.  <br>🤝 Open to collaborations on DevOps, Cloud, and AI/ML infrastructure projects. <br>💬 Ask me about Linux, Git, Docker, AWS, or automating anything.  <br>🌐 Check out my website/portfolio:  <br>📫 How to reach me:</p>
 
 ###
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/arya-patel-72b126250/" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/arya-patel-72b126250/" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/aryapatel9339" target="_blank">
+  <a href="https://discord.com/users/aryapatel9339" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
 </div>
