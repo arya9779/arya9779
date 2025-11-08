@@ -3,8 +3,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=199&section=header&reversal=false&text=Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arya Patel
-,This%20is%20Arya%20Patel%20%20&fontSize=45&fontColor=#00000&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=199&section=header&reversal=false&text=Hey%20there%F0%9F%91%8B,This%20is%20Arya%20Patel%20%20&fontSize=45&fontColor=%23000000&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
 
 ###
