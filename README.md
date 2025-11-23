@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<p align="left">Welcome to my GitHub profile! <br>I'm an aspiring DevOps & Cloud Engineer passionate about automation, scalability, and bridging the gap between development and operations.<br><div align="center">"Learning, They say you learn from failures, I say that’s where it truly begins 😄”<br></div><br>🔭 Currently working on "Project Astra"<br>🌱 Constantly learning and exploring AIOps, Docker, Kubernetes, AWS, CI/CD.  <br>🤝 Open to collaborations on DevOps, Cloud, and AI/ML infrastructure projects. <br>💬 Ask me about Linux, Git, Docker, AWS, or automating anything.  <br>🌐 Check out my website/portfolio:  <br>📫 How to reach me:</p>
+<p align="left">Welcome to my GitHub profile! <br>I'm an aspiring DevOps & Cloud Engineer passionate about automation, scalability, and bridging the gap between development and operations.<br><div align="center">"Learning, They say you learn from failures, I say that’s where it truly begins 😄”<br></div><br>🔭 Currently working on "Project Astra"<br>🌱 Constantly learning and exploring AIOps, Docker, Kubernetes, AWS, CI/CD.  <br>🤝 Open to collaborations on DevOps, Cloud, and AI/ML infrastructure projects. <br>💬 Ask me about Linux, Git, Docker, AWS, or automating anything.  <br>🌐 Check out my website/portfolio:https://arya9779.vercel.app/  <br>📫 How to reach me:</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arya-patel-72b126250/" >
